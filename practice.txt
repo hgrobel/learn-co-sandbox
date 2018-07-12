@@ -1,0 +1,13 @@
+name = "vanessa"
+puts name
+puts name + " is a beautiful girl"
+first = "Helena"
+last = "Grobel"
+age = "15"
+puts   first +  last +  " is" +  age +  "years old"
+puts first
+puts last
+puts age
+a = 3
+b = 6
+puts a + b
