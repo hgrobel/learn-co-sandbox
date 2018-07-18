@@ -1,0 +1,39 @@
+.navigation {
+  width: 100%;
+  height: 50px;
+  background-color: black;
+}
+
+h1 {
+  text-align: center;
+  color: #B5DAEC;
+  font-size: 400%;
+}
+
+h2 {
+  text-align: left;
+  color: #83AEC2  ;
+  font-size: 200%;
+}
+#text1 {
+  font-size: 22px;
+}
+
+#text2 {
+  font-size: 22px;
+}
+
+#text3 {
+  font-size: 22px;
+}
+
+#footer {
+  text-align: center;
+  font-size: 300%;
+  color: #B5DAEC;
+}
+
+body {
+background-color: white  ;
+background-size: cover;
+}
